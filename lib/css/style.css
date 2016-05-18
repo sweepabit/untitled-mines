@@ -13,6 +13,8 @@ html, body{
     background-image: url("https://imgur.com/kB1yHT9.png");
     background-size: 450px Auto;
     background-repeat: no-repeat;
+    display: block;
+    margin: 0 auto;
 }
 
 a{
