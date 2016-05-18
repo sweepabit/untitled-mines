@@ -11,9 +11,6 @@ html, body{
     padding: 0;
     margin: 0;
     background-image: url("https://imgur.com/kB1yHT9.png") no-repeat fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     overflow-x: hidden;
 }
