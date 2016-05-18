@@ -478,7 +478,7 @@ a{
 }
 
 #board .tile.pressed {
-    background: #488f2f;
+    background-image: url("http://i.imgur.com/1qQUiG8.png");
     background: -moz-radial-gradient(center, ellipse cover, #5ba825 0, #488f2f 80%);
     background: -webkit-gradient(radial, center center, 0, center center, 100%, color-stop(0, #5ba825), color-stop(80%, #488f2f));
     background: -webkit-radial-gradient(center, ellipse cover, #5ba825 0, #488f2f 80%);
