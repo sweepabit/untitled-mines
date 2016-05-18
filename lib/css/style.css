@@ -378,10 +378,10 @@ a{
 
 #game_log #game_actions #cashoutButton{
     font-size: 1.3em;
-    background: #e5ac00;
-    border: 1px solid #e58a00;
+    background: #c9c9c9;
+    border: 1px solid #808080;
     color: #fff;
-    text-shadow: 0 -1px 0 #e58a00;
+    text-shadow: 0 -1px 0 #808080;
     box-shadow: 0 2px 0 #a60,0 3px 1px #000,inset 0 1px 0 rgba(255,255,255,.2);
     width: 100%;
     margin: 0;
